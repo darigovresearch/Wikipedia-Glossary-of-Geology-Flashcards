@@ -5,7 +5,7 @@
 <dd class=""glossary"">The process of determining a specific date (in years or some other unit of time) for an archaeological, geological or paleontological site or artifact.</dd>
 
 <dt class=""glossary"" id=""accident"" style=""margin-top: 0.4em;""><dfn class=""glossary"">accident</dfn></dt>
-<dd class=""glossary"">A sudden discontinuity of ground, such as fault of great thickness, bed or lentil of unstable ground.<sup id=""cite_ref-1"" class=""reference""><a href=""#cite_note-1"">&#91;1&#93;</a></sup></dd>
+<dd class=""glossary"">A sudden discontinuity of ground, such as fault of great thickness, bed or lentil of unstable ground.<sup id=""cite_ref-1"" class=""reference""><a href=""https://en.wikipedia.org/wiki/Glossary_of_geology#cite_note-1"">&#91;1&#93;</a></sup></dd>
 
 <dt class=""glossary"" id=""accretion"" style=""margin-top: 0.4em;""><dfn class=""glossary""><a href=""https://en.wikipedia.org/wiki/Accretion_(geology)"" title=""Accretion (geology)"">accretion</a></dfn></dt>
 <dd class=""glossary"">A process by which material is added to a tectonic plate or landmass.</dd>
