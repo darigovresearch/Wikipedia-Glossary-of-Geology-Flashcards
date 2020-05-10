@@ -158,7 +158,8 @@
 <dd class=""glossary"">Native consolidated rock underlying the loose rock or soil surface of the Earth.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Before_Present"" title=""Before Present"">Before Present</a> (BP)"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Bioerosion"" title=""Bioerosion"">bioerosion</a>"|"
 <dd class=""glossary"">The erosion of hard ocean substrates by living organisms through various biological mechanisms.</dd>
@@ -182,7 +183,8 @@
 <dd class=""glossary"">A structure formed by <a href=""#extension""><span title=""See entry on this page at § extension"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">extension</span></a>, in which a rigid tabular body such as a bed of <a href=""#sandstone""><span title=""See entry on this page at § sandstone"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">sandstone</span></a> is stretched and deformed amidst less <a href=""https://en.wikipedia.org/wiki/Competence_(geology)"" title=""Competence (geology)"">competent</a> beds. See also <i><a href=""https://en.wikipedia.org/wiki/Boudinage"" title=""Boudinage"">boudinage</a></i>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Boulder"" title=""Boulder"">boulder</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Bowen%27s_reaction_series"" title=""Bowen&#39;s reaction series"">Bowen's reaction series</a>"|"
 <dd class=""glossary"">The sequence in which minerals crystallize from a cooling basaltic magma.</dd>
@@ -249,13 +251,15 @@
 <dd class=""glossary"">Mechanically redeposited remains of eroded older rocks; rocks formed of fragments, or <a href=""#clast""><span title=""See entry on this page at § clast"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">clasts</span></a>, of pre-existing rocks.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Clay"" title=""Clay"">clay</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Cleavage_(geology)"" title=""Cleavage (geology)"">cleavage</a>"|"
 <dd class=""glossary"">The tendency of a rock to break along preferred planes of weakness, caused by the development of a planar fabric as a result of deformation.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Cobble_(geology)"" title=""Cobble (geology)"">cobble</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Coccolith"" title=""Coccolith"">coccolith</a>"|"
 <dd class=""glossary"">An individual plate of <a href=""https://en.wikipedia.org/wiki/Calcium_carbonate"" title=""Calcium carbonate"">calcium carbonate</a> formed by <a href=""#coccolithophore""><span title=""See entry on this page at § coccolithophore"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">coccolithophores</span></a> which are arranged around them in a so-called <i>coccosphere</i>.</dd>
@@ -325,16 +329,20 @@
 <dd class=""glossary"">The outermost solid layer of a planet or moon, referring especially to the <a href=""https://en.wikipedia.org/wiki/Earth%27s_crust"" title=""Earth&#39;s crust"">Earth's crust</a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Cryptocrystalline"" title=""Cryptocrystalline"">cryptocrystalline</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Crystal"" title=""Crystal"">crystal</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Crystal_habit"" title=""Crystal habit"">crystal habit</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Crystallinity"" title=""Crystallinity"">crystallinity</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Dacite"" title=""Dacite"">dacite</a>"|"
 <dd class=""glossary"">An igneous, volcanic rock with a high iron content. It is an extrusive rock of the same general composition as <a href=""#andesite""><span title=""See entry on this page at § andesite"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">andesite</span></a>, but a less calcic feldspar. Synonymous with <i>quartz andesite</i>.</dd>
@@ -412,7 +420,8 @@
 <dd class=""glossary"">A general term for hard crust existing as a layer in or on the surface of the upper horizons of a soil in semi-arid climates. Duricrust is formed by the accumulation of solid minerals deposited by water moving upwards by capillary action and evaporating in the dry season. Compare <a href=""#hardpan""><span title=""See entry on this page at § hardpan"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">hardpan</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Earthquake"" title=""Earthquake"">earthquake</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Eclogite"" title=""Eclogite"">eclogite</a>"|"
 <dd class=""glossary"">A generally coarse- to medium-grained <a href=""#pyroxene""><span title=""See entry on this page at § pyroxene"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">pyroxene</span></a> in which are set red <a href=""#garnet""><span title=""See entry on this page at § garnet"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">garnets</span></a>. The colour is pistachio green when fresh, but mottled with red when weathered.</dd>
@@ -501,7 +510,8 @@
 <dd class=""glossary"">A method that uses tracks that are visible under the microscope to date minerals.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Flandrian_transgression"" class=""mw-redirect"" title=""Flandrian transgression"">Flandrian transgression</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fold_(geology)"" title=""Fold (geology)"">fold</a>"|"
 <dd class=""glossary"">A stack of originally flat and planar surfaces, such as sedimentary strata, which have become bent or curved as a result of plastic (i.e. permanent) deformation.</dd>
@@ -516,7 +526,8 @@
 <dd class=""glossary"">Bearing or being composed of <a href=""#fossil""><span title=""See entry on this page at § fossil"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">fossils</span></a> in rocks or strata.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fossilization"" class=""mw-redirect"" title=""Fossilization"">fossilization</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Fracture"" title=""Fracture"">fracture</a>"|"
 <dd class=""glossary"">Any crack or discontinuity. In its geological definition, it is only used when no displacement can be distinguished.</dd>
@@ -528,7 +539,8 @@
 <dd class=""glossary"">A dark, coarse-grained, intrusive igneous rock chemically equivalent to <a href=""#basalt""><span title=""See entry on this page at § basalt"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">basalt</span></a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Garnet"" title=""Garnet"">garnet</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Gastrolith"" title=""Gastrolith"">gastrolith</a>"|"
 <dd class=""glossary"">A rock which is or was once held inside the digestive tract of a living animal.</dd>
@@ -549,7 +561,8 @@
 <dd class=""glossary""></dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Geology"" title=""Geology"">geology</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Geosyncline"" title=""Geosyncline"">geosyncline</a>"|"
 <dd class=""glossary"">A mobile down-warping of the Earth's <a href=""#crust""><span title=""See entry on this page at § crust"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">crust</span></a>, either elongate or basin-like, measured in scores of kilometres, which is subsiding as sedimentary and volcanic rocks accumulate to thicknesses of thousands of metres.</dd>
@@ -582,7 +595,8 @@
 <dd class=""glossary"">An intrusive, felsic, igneous rock similar to <a href=""#granite""><span title=""See entry on this page at § granite"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">granite</span></a> but containing more <a href=""#plagioclase""><span title=""See entry on this page at § plagioclase"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">plagioclase</span></a> than potassium <a href=""#feldspar""><span title=""See entry on this page at § feldspar"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">feldspar</span></a>. <a href=""#dacite""><span title=""See entry on this page at § dacite"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Dacite</span></a> is the volcanic equivalent.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Gravel"" title=""Gravel"">gravel</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Graywacke"" class=""mw-redirect"" title=""Graywacke"">graywacke</a>"|"
 <dd class=""glossary"">A variety of <a href=""#sandstone""><span title=""See entry on this page at § sandstone"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">sandstone</span></a> generally characterized by its hardness, dark colour, and poorly sorted, angular grains of <a href=""#quartz""><span title=""See entry on this page at § quartz"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">quartz</span></a>, <a href=""#feldspar""><span title=""See entry on this page at § feldspar"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">feldspar</span></a>, and small rock fragments (<a href=""https://en.wikipedia.org/wiki/Lithic_fragment_(geology)"" title=""Lithic fragment (geology)"">lithic fragments</a>) set in a compact, clay-fine matrix. Also spelled <b>greywacke</b>.</dd>
@@ -600,7 +614,8 @@
 <dd class=""glossary"">The time it takes for a given amount of a radioactive isotope to be reduced by one-half.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Hardpan"" title=""Hardpan"">hardpan</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "hemicrystalline"|"
 <dd class=""glossary"">Having the properties of certain rocks of igneous origin which contain some interstitial <a href=""#glass""><span title=""See entry on this page at § glass"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">glass</span></a> in addition to crystalline minerals. Contrast <i><a href=""#holocrystalline""><span title=""See entry on this page at § holocrystalline"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">holocrystalline</span></a></i>.</dd>
@@ -777,7 +792,8 @@
 <dd class=""glossary"">The <a href=""#era""><span title=""See entry on this page at § era"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">era</span></a> of geological time including the <a href=""#triassic""><span title=""See entry on this page at § Triassic"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Triassic</span></a>, <a href=""#jurassic""><span title=""See entry on this page at § Jurassic"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Jurassic</span></a>, and <a href=""#cretaceous""><span title=""See entry on this page at § Cretaceous"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">Cretaceous</span></a> ages.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Metamorphic_rock"" title=""Metamorphic rock"">metamorphic rock</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Metamorphism"" title=""Metamorphism"">metamorphism</a>"|"
 <dd class=""glossary"">The solid state recrystallisation of pre-existing rocks due to changes in heat and/or pressure and/or the introduction of fluids, i.e. without melting.</dd>
@@ -804,13 +820,15 @@
 <dd class=""glossary"">A composite rock composed of igneous or igneous-looking and/or metamorphic materials which are generally distinguishable megascopically.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Mineral"" title=""Mineral"">mineral</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Mineralization_(geology)"" title=""Mineralization (geology)"">mineralization</a>"|"
 <dd class=""glossary"">The hydrothermal deposition of economically important metals in the formation of ore bodies or ""lodes"".</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Mineralogy"" title=""Mineralogy"">mineralogy</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Geosyncline#Overview"" title=""Geosyncline"">miogeosyncline</a>"|"
 <dd class=""glossary"">A <a href=""#geosyncline""><span title=""See entry on this page at § geosyncline"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">geosyncline</span></a> in which <a href=""#volcanism""><span title=""See entry on this page at § volcanism"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">volcanism</span></a> is not associated with sedimentation, or the non-volcanic part of the <a href=""#orthogeosyncline""><span title=""See entry on this page at § orthogeosyncline"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">orthogeosyncline</span></a> located near the <a href=""#craton""><span title=""See entry on this page at § craton"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">craton</span></a>.</dd>
@@ -854,7 +872,8 @@
 <dd class=""glossary"">Dip-slip faults can be sub-classified into the types ""reverse"" and ""normal"". A normal fault occurs when the <a href=""#crust""><span title=""See entry on this page at § crust"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">crust</span></a> is extended such that the hanging wall moves downward relative to the footwall. Contrast <i><a href=""#reverse_fault""><span title=""See entry on this page at § reverse fault"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">reverse fault</span></a></i>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Obsidian"" title=""Obsidian"">obsidian</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Oligoclase"" title=""Oligoclase"">oligoclase</a>"|"
 <dd class=""glossary"">One of the <a href=""#plagioclase""><span title=""See entry on this page at § plagioclase"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">plagioclase</span></a> feldspars consisting of the albite and anorthite molecules combined in the proportions 9:1 to 7:3. It is found especially in the more acid <a href=""#igneous_rock""><span title=""See entry on this page at § igneous rock"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">igneous rocks</span></a>.</dd>
@@ -897,7 +916,8 @@
 <dd class=""glossary"">An indication of the direction of fluid flow (at the time of deposition) visible in a rock.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Paleontology"" title=""Paleontology"">paleontology</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Palagonite"" title=""Palagonite"">palagonite</a>"|"
 <dd class=""glossary"">An alteration product from the interaction of water with volcanic glass of chemical composition similar to basalt or from the interaction between water and basalt melt.</dd>
@@ -954,10 +974,12 @@
 <dd class=""glossary"">The destructive after-action of the concentrated volatile constituents of a magma, effected after the consolidation of the main body of the magma.</dd>
 "
 "<a href=""https://en.wikipedia.org/w/index.php?title=Polymictic_(petrology)&amp;action=edit&amp;redlink=1"" class=""new"" title=""Polymictic (petrology) (page does not exist)"">polymictic</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/w/index.php?title=Polysynthetic_twinning&amp;action=edit&amp;redlink=1"" class=""new"" title=""Polysynthetic twinning (page does not exist)"">polysynthetic twinning</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Porphyroblast"" title=""Porphyroblast"">porphyroblast</a>"|"
 <dd class=""glossary"">A large mineral crystal in a <a href=""#metamorphic_rock""><span title=""See entry on this page at § metamorphic rock"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">metamorphic rock</span></a> which has grown within the finer-grained groundmass.</dd>
@@ -1022,13 +1044,15 @@
 <dd class=""glossary"">An aphanitic, buff to greyish flow-banded rock, often containing spherulites or phenocrysts of quartz and feldspar.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Rift"" title=""Rift"">rift</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Roche_moutonn%C3%A9e"" title=""Roche moutonnée"">roche moutonnée</a>"|"
 <dd class=""glossary"">An elongated post-glacial rock formation with a smoothed surface on the uphill side and a ""plucked"" surface on the downhill side.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Rock_(geology)"" title=""Rock (geology)"">rock</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Rudite"" title=""Rudite"">rudaceous</a>"|"
 <dd class=""glossary"">Having the composition and characteristics of <a href=""#clastic_rocks""><span title=""See entry on this page at § clastic rocks"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">clastic rocks</span></a>, i.e. coarse-grained sedimentary rocks, conglomerates, and breccias, with a particle size of less than 2 mm.</dd>
@@ -1040,10 +1064,12 @@
 <dd class=""glossary"">Having a texture similar to that of granulated sugar.</dd>
 "
 "Saldanian orogeny"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sand"" title=""Sand"">sand</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sandstone"" title=""Sandstone"">sandstone</a>"|"
 <dd class=""glossary"">Sand (with grains up to 2&#160;mm in diameter) in which the grains are cemented together by secondary silica or calcite. Maybe loosely cemented and soft or well cemented and hard. Buff to brownish; sometimes reddish, due to presence of iron oxides, or greenish, due to presence of glauconite.</dd>
@@ -1061,7 +1087,8 @@
 <dd class=""glossary"">A depression in which sediments substantially accumulate over time.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sedimentary_rock"" title=""Sedimentary rock"">sedimentary rock</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Sequence_(geology)"" title=""Sequence (geology)"">sequence</a>"|"
 <dd class=""glossary"">A sequence of geological events, processes, or rocks arranged in chronological order.</dd>
@@ -1112,7 +1139,8 @@
 <dd class=""glossary"">A red brown to black, mostly opaque, nesosilicate mineral with a white streak.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Stone"" class=""mw-redirect"" title=""Stone"">stone</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/w/index.php?title=Storm_ridge&amp;action=edit&amp;redlink=1"" class=""new"" title=""Storm ridge (page does not exist)"">storm ridge</a>"|"
 <dd class=""glossary"">A <a href=""https://en.wikipedia.org/wiki/Beach_ridge"" title=""Beach ridge"">beach ridge</a> usually located further or higher inland caused by wave action from storms.</dd>
@@ -1121,7 +1149,8 @@
 <dd class=""glossary"">A change in the volume or shape of a rock mass in response to stress.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Stratigraphy"" title=""Stratigraphy"">stratigraphy</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Stylolite"" title=""Stylolite"">stylolite</a>"|"
 <dd class=""glossary"">An irregular discontinuity or non-structural fracture in limestone and other sedimentary rocks. Stylolites result from compaction and pressure solution during diagenesis.</dd>
@@ -1136,7 +1165,8 @@
 <dd class=""glossary"">A geological fold with strata dipping inwards towards the fold axis. Contrast <i><a href=""#anticline""><span title=""See entry on this page at § anticline"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">anticline</span></a></i>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Syntaxis"" title=""Syntaxis"">syntaxis</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Table_Mountain_Group"" class=""mw-redirect"" title=""Table Mountain Group"">Table Mountain Group</a>"|"
 <dd class=""glossary"">A group of rock formations within the <a href=""https://en.wikipedia.org/wiki/Cape_Supergroup"" class=""mw-redirect"" title=""Cape Supergroup"">Cape Supergroup</a> sequence of rocks.</dd>
@@ -1146,7 +1176,8 @@
 <dd class=""glossary"">A collection of broken rock fragments at the base of crags, mountain cliffs, volcanoes or valley shoulders that has accumulated through periodic rockfall from adjacent cliff faces. Landforms associated with these materials are often called talus deposits.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Tectonic_plate"" class=""mw-redirect"" title=""Tectonic plate"">tectonic plate</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Tektite"" title=""Tektite"">tektite</a>"|"
 <dd class=""glossary"">Natural glass formed from terrestrial ejecta during a meteorite impact.</dd>
@@ -1174,7 +1205,8 @@
 <dd class=""glossary"">A large, free-standing residual mass (rock outcrop) that rises abruptly from the surrounding smooth and gentle slopes of a rounded hill summit or ridge crest.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Trace_fossil"" title=""Trace fossil"">trace fossil</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Trachyte"" title=""Trachyte"">trachyte</a>"|"
 <dd class=""glossary"">A fine-grained <a href=""#igneous_rock""><span title=""See entry on this page at § igneous rock"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">igneous rock</span></a> type of intermediate composition, in most cases with little or no <a href=""#quartz""><span title=""See entry on this page at § quartz"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">quartz</span></a>, consisting largely of alkali-feldspars (sanidene or oligooclase) together with a small amount of coloured silicates such as diopside, horneblende, or mica.</dd>
@@ -1228,7 +1260,8 @@
 <dd class=""glossary"">The direction of overturning of asymmetric folds, which matches the direction of <a href=""https://en.wikipedia.org/wiki/Thrust_fault"" title=""Thrust fault"">thrusting</a>.</dd>
 "
 "<a href=""https://en.wikipedia.org/wiki/Vesicular_texture"" title=""Vesicular texture"">vesiculated</a>"|"
-<dd class=""glossary""></dd>
+<p>Looks like this term doesn't have a definition yet.</p>
+<p>Maybe consider making a contribution to this <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Geology-Flashcards/"">project</a> or even better improve the original Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_geology"">""Glossary of geology""</a> by making a contribution and <a href=""https://twitter.com/darigovresearch"">let us know</a>!</p>
 "
 "<a href=""https://en.wikipedia.org/wiki/Vitrinite"" title=""Vitrinite"">vitrinite</a>"|"
 <dd class=""glossary"">A group of <a href=""#maceral""><span title=""See entry on this page at § maceral"" class=""glossary-link-internal"" style=""border-bottom: 1px dashed #86a1ff; color:initial;"" id="""">macerals</span></a> that are the most common component of coal.</dd>
