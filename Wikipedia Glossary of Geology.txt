@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="abyssal_plain" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Abyssal_plain" title="Abyssal plain">abyssal plain</a></dfn></dt>
 <dd class="glossary">Flat or very gently sloping areas of the deep ocean basin floor.</dd>
@@ -169,7 +168,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="banded_iron_formation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Banded_iron_formation" title="Banded iron formation">banded iron formation</a></dfn></dt>
 <dd class="glossary">A distinctive type of rock often found in primordial sedimentary rocks.</dd>
@@ -271,7 +269,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="calcareous" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calcareous" title="Calcareous">calcareous</a></dfn></dt>
 <dd class="glossary">Formed from or containing a high proportion of <a href="/wiki/Calcium_carbonate" title="Calcium carbonate">calcium carbonate</a> in the form of <a href="#calcite"><span title="See entry on this page at § calcite" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">calcite</span></a> or <a href="/wiki/Aragonite" title="Aragonite">aragonite</a>, used of a sediment, sedimentary rock, or soil type.</dd>
@@ -445,7 +442,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="dacite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dacite" title="Dacite">dacite</a></dfn></dt>
 <dd class="glossary">An igneous, volcanic rock with a high iron content. It is an extrusive rock of the same general composition as <a href="#andesite"><span title="See entry on this page at § andesite" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">andesite</span></a>, but a less calcic feldspar. Synonymous with <i>quartz andesite</i>.</dd>
@@ -556,7 +552,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="earthquake" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Earthquake" title="Earthquake">earthquake</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -651,7 +646,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="facies" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Facies" title="Facies">facies</a></dfn></dt>
 <dd class="glossary">The sum of the lithological and faunal characters of a sediment is its facies. Lithological facies involves composition, grain size, texture, colour, as well as such mass characteristics as current bedding, nature of stratification, ripple marks, etc. Similarly, metamorphic facies involves the degree of crystallisation and the mineral assemblage in a group of metamorphic rocks.</dd>
@@ -738,7 +732,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ga" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Year#Symbols" title="Year">Ga</a></dfn></dt>
 <dd class="glossary">A non-standard but widely used abbreviation for one billion (1,000,000,000) years, using the metric prefix G (for "Giga") to indicate a quantity of one billion. When not otherwise qualified, it usually indicates 1,000,000,000 years <i><a href="#before_Present"><span title="See entry on this page at § Before Present" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Before Present</span></a></i> (or 1,000,000,000 years ago).</dd>
@@ -846,7 +839,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="habit" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Crystal_habit" title="Crystal habit">habit</a></dfn></dt>
 <dd class="glossary">See <i><a href="#crystal_habit"><span title="See entry on this page at § crystal habit" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crystal habit</span></a></i>.</dd>
@@ -924,7 +916,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ichnology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ichnology" class="mw-redirect" title="Ichnology">ichnology</a></dfn></dt>
 <dd class="glossary">A branch of biology that deals with <a href="#trace_fossil"><span title="See entry on this page at § trace fossil" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">traces</span></a> of organismal behavior.</dd>
@@ -991,7 +982,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="joint" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Joint_(geology)" title="Joint (geology)">joint</a></dfn></dt>
 <dd class="glossary">A discrete discontinuity surface without evidence of displacement. See also <i><a href="#diaclase"><span title="See entry on this page at § diaclase" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">diaclase</span></a></i> or <i><a href="#bed"><span title="See entry on this page at § bed" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bedding</span></a></i>.</dd>
@@ -1033,7 +1023,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ka" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Year#Symbols" title="Year">Ka</a></dfn></dt>
 <dd class="glossary">A non-standard but widely used abbreviation for one thousand (1,000) years, using the metric prefix K (for "Kilo") to indicate a quantity of one thousand. When not otherwise qualified, it usually indicates 1,000 years <i><a href="#before_Present"><span title="See entry on this page at § Before Present" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Before Present</span></a></i> (or 1,000 years ago).</dd>
@@ -1093,7 +1082,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="lacuna" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Lacuna_(geology)&amp;action=edit&amp;redlink=1" class="new" title="Lacuna (geology) (page does not exist)">lacuna</a></dfn></dt>
 <dd class="glossary">A time-stratigraphic unit representing the gap in the stratigraphic record. Specifically the missing interval at an unconformity, representing the interpreted space-time value of both hiatus (period of non-deposition), and degradation vacuity (period of erosion).</dd>
@@ -1167,7 +1155,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ma" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mya_(unit)" class="mw-redirect" title="Mya (unit)">Ma</a></dfn></dt>
 <dd class="glossary">A non-standard but widely used abbreviation for one million (1,000,000) years, using the metric prefix M (for "Mega") to indicate a quantity of one million. When not otherwise qualified, it usually indicates 1,000,000 years <i><a href="#before_Present"><span title="See entry on this page at § Before Present" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Before Present</span></a></i> (or 1,000,000 years ago).</dd>
@@ -1309,7 +1296,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="namibian_age" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Namibian_age&amp;action=edit&amp;redlink=1" class="new" title="Namibian age (page does not exist)">Namibian age</a></dfn></dt>
 <dd class="glossary">900 to 542 Ma (Neoproterozoic).</dd>
@@ -1358,7 +1344,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="obsidian" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Obsidian" title="Obsidian">obsidian</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1427,7 +1412,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="pahoehoe" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pahoehoe" class="mw-redirect" title="Pahoehoe">pahoehoe</a></dfn></dt>
 <dd class="glossary">A type of vesicular, basaltic <a href="#lava"><span title="See entry on this page at § lava" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lava</span></a> often with a ropy surface texture.</dd>
@@ -1576,7 +1560,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="quartzite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quartzite" title="Quartzite">quartzite</a></dfn></dt>
 <dd class="glossary">A compact, hard, very fine-grained white to creamy white rock which breaks into sharp angular fragments. Quartzite is always associated with other <a href="#metamorphic_rock"><span title="See entry on this page at § metamorphic rock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">metamorphic rocks</span></a>, while cemented sandstone is always associated with other <a href="#sedimentary_rock"><span title="See entry on this page at § sedimentary rock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sedimentary rocks</span></a>.</dd>
@@ -1618,7 +1601,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="regional_metamorphism" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Regional_metamorphism" class="mw-redirect" title="Regional metamorphism">regional metamorphism</a></dfn></dt>
 <dd class="glossary">Over wide areas resulting from deep burial with consequent rise in temperature and static pressure, usually with the help of folding movements that accompany the formation of mountain ranges.</dd>
@@ -1685,7 +1667,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="saccharoidal" style="margin-top: 0.4em;"><dfn class="glossary"><a href="https://en.wiktionary.org/wiki/Saccharoidal" class="extiw" title="wikt:Saccharoidal">saccharoidal</a></dfn></dt>
 <dd class="glossary">Having a texture similar to that of granulated sugar.</dd>
@@ -1823,7 +1804,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="table_mountain_group" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Table_Mountain_Group" class="mw-redirect" title="Table Mountain Group">Table Mountain Group</a></dfn></dt>
 <dd class="glossary">A group of rock formations within the <a href="/wiki/Cape_Supergroup" class="mw-redirect" title="Cape Supergroup">Cape Supergroup</a> sequence of rocks.</dd>
@@ -1922,7 +1902,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="ultramafic" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ultramafic" class="mw-redirect" title="Ultramafic">ultramafic</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Sometimes used interchangeably with <b>ultrabasic</b>.</span></p>
@@ -1965,7 +1944,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="vacuole" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vacuole" title="Vacuole">vacuole</a></dfn></dt>
 <dd class="glossary">A bubble inclusion within mineral grains (typically monocrystalline quartz), filled with liquid, gas, or both liquid and gas. Vacuoles are randomly distributed in contrast to the oriented bubble trains of Boehm Lamellae.</dd>
@@ -2038,7 +2016,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="wiggle_trace" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Wiggle_trace&amp;action=edit&amp;redlink=1" class="new" title="Wiggle trace (page does not exist)">wiggle trace</a></dfn></dt>
 <dd class="glossary">A graph that plots wave amplitudes (recorded by <a href="/wiki/Seismic_reflection" class="mw-redirect" title="Seismic reflection">seismic reflection</a> and <a href="/wiki/Borehole_logging" class="mw-redirect" title="Borehole logging">borehole logging</a>) as a function of time, with the positive peaks shaded in a single dark colour.</dd>
@@ -2080,7 +2057,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="xenolith" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xenolith" title="Xenolith">xenolith</a></dfn></dt>
 <dd class="glossary">A rock fragment which becomes enveloped in a larger rock during the latter's development and hardening. In geology, the term is almost exclusively used to describe inclusions in <a href="#igneous_rock"><span title="See entry on this page at § igneous rock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">igneous rock</span></a> during magma emplacement and eruption.</dd>
@@ -2132,7 +2108,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="yellow_cake" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yellow_cake" class="mw-redirect" title="Yellow cake">yellow cake</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>yellowcake</b> or <b>urania</b>.</span></p>
@@ -2179,7 +2154,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_geology&amp;action=edit&amp;section=26" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="zeolite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zeolite" title="Zeolite">zeolite</a></dfn></dt>
 <dd class="glossary">Microporous, aluminosilicate minerals commonly used as adsorbents.</dd>
