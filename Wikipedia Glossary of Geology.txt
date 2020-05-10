@@ -134,40 +134,6 @@
 <dt class="glossary" id="autochthon" style="margin-top: 0.4em;"><dfn class="glossary"><a href="https://en.wiktionary.org/wiki/autochthonous" class="extiw" title="wikt:autochthonous">autochthon</a></dfn></dt>
 <dd class="glossary">A fossil, sediment, or rock that was formed or produced in the location where it is now found. The term is widely applied to a <a href="/wiki/Coal" title="Coal">coal</a> or <a href="/wiki/Peat" title="Peat">peat</a> that originated at the place where the plants comprising it grew and decayed and to rocks that have not been displaced by overthrust faulting. An object of this type is referred to as autochthonous. Contrast <i><a href="#allochthon"><span title="See entry on this page at § allochthon" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">allochthon</span></a></i>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="banded_iron_formation" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Banded_iron_formation" title="Banded iron formation">banded iron formation</a></dfn></dt>
 <dd class="glossary">A distinctive type of rock often found in primordial sedimentary rocks.</dd>
@@ -235,40 +201,6 @@
 <dt class="glossary" id="buckling" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fold_(geology)#Buckling" title="Fold (geology)">buckling</a></dfn></dt>
 <dd class="glossary">A failure mode of a rock subjected to high compressive stresses, where the actual compressive stress at the point of failure is less than the ultimate compressive stresses that the material is capable of withstanding. Typically, folding is thought to occur by simple buckling of a planar surface and its confining volume. The volume change is accommodated by layer parallel shortening the volume, which grows in thickness.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="calcareous" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Calcareous" title="Calcareous">calcareous</a></dfn></dt>
 <dd class="glossary">Formed from or containing a high proportion of <a href="/wiki/Calcium_carbonate" title="Calcium carbonate">calcium carbonate</a> in the form of <a href="#calcite"><span title="See entry on this page at § calcite" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">calcite</span></a> or <a href="/wiki/Aragonite" title="Aragonite">aragonite</a>, used of a sediment, sedimentary rock, or soil type.</dd>
@@ -408,40 +340,6 @@
 <dd class="glossary"></dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="dacite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Dacite" title="Dacite">dacite</a></dfn></dt>
 <dd class="glossary">An igneous, volcanic rock with a high iron content. It is an extrusive rock of the same general composition as <a href="#andesite"><span title="See entry on this page at § andesite" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">andesite</span></a>, but a less calcic feldspar. Synonymous with <i>quartz andesite</i>.</dd>
@@ -518,40 +416,6 @@
 <dt class="glossary" id="duricrust" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Duricrust" title="Duricrust">duricrust</a></dfn></dt>
 <dd class="glossary">A general term for hard crust existing as a layer in or on the surface of the upper horizons of a soil in semi-arid climates. Duricrust is formed by the accumulation of solid minerals deposited by water moving upwards by capillary action and evaporating in the dry season. Compare <a href="#hardpan"><span title="See entry on this page at § hardpan" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hardpan</span></a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="earthquake" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Earthquake" title="Earthquake">earthquake</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -612,40 +476,6 @@
 <dt class="glossary" id="extrusive" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Extrusive" class="mw-redirect" title="Extrusive">extrusive</a></dfn></dt>
 <dd class="glossary">A mode of <a href="#igneous"><span title="See entry on this page at § igneous" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">igneous</span></a> volcanic rock formation in which hot magma from inside the Earth flows out (extrudes) onto the surface as lava or explodes violently into the atmosphere to fall back as pyroclastics or tuff.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="facies" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Facies" title="Facies">facies</a></dfn></dt>
 <dd class="glossary">The sum of the lithological and faunal characters of a sediment is its facies. Lithological facies involves composition, grain size, texture, colour, as well as such mass characteristics as current bedding, nature of stratification, ripple marks, etc. Similarly, metamorphic facies involves the degree of crystallisation and the mineral assemblage in a group of metamorphic rocks.</dd>
@@ -698,40 +528,6 @@
 <dt class="glossary" id="fracture" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Fracture" title="Fracture">fracture</a></dfn></dt>
 <dd class="glossary">Any crack or discontinuity. In its geological definition, it is only used when no displacement can be distinguished.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="ga" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Year#Symbols" title="Year">Ga</a></dfn></dt>
 <dd class="glossary">A non-standard but widely used abbreviation for one billion (1,000,000,000) years, using the metric prefix G (for "Giga") to indicate a quantity of one billion. When not otherwise qualified, it usually indicates 1,000,000,000 years <i><a href="#before_Present"><span title="See entry on this page at § Before Present" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Before Present</span></a></i> (or 1,000,000,000 years ago).</dd>
@@ -805,40 +601,6 @@
 <dt class="glossary" id="grus" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Grus_(geology)" title="Grus (geology)">grus</a></dfn></dt>
 <dd class="glossary">Freshly eroded, angular grains of <a href="#quartz"><span title="See entry on this page at § quartz" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">quartz</span></a> and <a href="#feldspar"><span title="See entry on this page at § feldspar" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">feldspar</span></a> derived from a <a href="#granitoid"><span title="See entry on this page at § granitoid" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">granitoid</span></a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="habit" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Crystal_habit" title="Crystal habit">habit</a></dfn></dt>
 <dd class="glossary">See <i><a href="#crystal_habit"><span title="See entry on this page at § crystal habit" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crystal habit</span></a></i>.</dd>
@@ -882,40 +644,6 @@
 <dt class="glossary" id="hypersaline" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Hypersaline" class="mw-redirect" title="Hypersaline">hypersaline</a></dfn></dt>
 <dd class="glossary">Having a saltiness or dissolved salt content greater than that of seawater.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="ichnology" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ichnology" class="mw-redirect" title="Ichnology">ichnology</a></dfn></dt>
 <dd class="glossary">A branch of biology that deals with <a href="#trace_fossil"><span title="See entry on this page at § trace fossil" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">traces</span></a> of organismal behavior.</dd>
@@ -948,40 +676,6 @@
 <dt class="glossary" id="isotope" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Isotope" title="Isotope">isotope</a></dfn></dt>
 <dd class="glossary">different forms of an element each having different atomic mass (mass number).</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="joint" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Joint_(geology)" title="Joint (geology)">joint</a></dfn></dt>
 <dd class="glossary">A discrete discontinuity surface without evidence of displacement. See also <i><a href="#diaclase"><span title="See entry on this page at § diaclase" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">diaclase</span></a></i> or <i><a href="#bed"><span title="See entry on this page at § bed" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">bedding</span></a></i>.</dd>
@@ -989,40 +683,6 @@
 <dt class="glossary" id="jurassic" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Jurassic" title="Jurassic">Jurassic</a></dfn></dt>
 <dd class="glossary">A major unit of the geologic timescale that extended from about 199.6 ± 0.6 Ma (million years ago) to 145.4 ± 4.0 Ma, between the end of the Triassic and the beginning of the Cretaceous.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="ka" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Year#Symbols" title="Year">Ka</a></dfn></dt>
 <dd class="glossary">A non-standard but widely used abbreviation for one thousand (1,000) years, using the metric prefix K (for "Kilo") to indicate a quantity of one thousand. When not otherwise qualified, it usually indicates 1,000 years <i><a href="#before_Present"><span title="See entry on this page at § Before Present" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Before Present</span></a></i> (or 1,000 years ago).</dd>
@@ -1048,40 +708,6 @@
 <dt class="glossary" id="kyanite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Kyanite" title="Kyanite">kyanite</a></dfn></dt>
 <dd class="glossary">A <a href="#silicate"><span title="See entry on this page at § silicate" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">silicate</span></a> of aluminium which crystallises in the triclinic system. It usually occurs as long-bladed crystals, blue in colour, in <a href="#metamorphic_rock"><span title="See entry on this page at § metamorphic rock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">metamorphic rocks</span></a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="lacuna" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Lacuna_(geology)&amp;action=edit&amp;redlink=1" class="new" title="Lacuna (geology) (page does not exist)">lacuna</a></dfn></dt>
 <dd class="glossary">A time-stratigraphic unit representing the gap in the stratigraphic record. Specifically the missing interval at an unconformity, representing the interpreted space-time value of both hiatus (period of non-deposition), and degradation vacuity (period of erosion).</dd>
@@ -1121,40 +747,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also spelled <b>luster</b>.</span></p>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="ma" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Mya_(unit)" class="mw-redirect" title="Mya (unit)">Ma</a></dfn></dt>
 <dd class="glossary">A non-standard but widely used abbreviation for one million (1,000,000) years, using the metric prefix M (for "Mega") to indicate a quantity of one million. When not otherwise qualified, it usually indicates 1,000,000 years <i><a href="#before_Present"><span title="See entry on this page at § Before Present" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Before Present</span></a></i> (or 1,000,000 years ago).</dd>
@@ -1262,40 +854,6 @@
 <dt class="glossary" id="muscovite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Muscovite" title="Muscovite">muscovite</a></dfn></dt>
 <dd class="glossary">The common or white <a href="#mica"><span title="See entry on this page at § mica" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">mica</span></a>; for the most part an orthosilicate of <a href="/wiki/Aluminium" title="Aluminium">aluminium</a> and <a href="/wiki/Potassium" title="Potassium">potassium</a> that crystallises in the <a href="#monoclinic"><span title="See entry on this page at § monoclinic" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">monoclinic</span></a> system.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="namibian_age" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Namibian_age&amp;action=edit&amp;redlink=1" class="new" title="Namibian age (page does not exist)">Namibian age</a></dfn></dt>
 <dd class="glossary">900 to 542 Ma (Neoproterozoic).</dd>
@@ -1310,40 +868,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called an <b>extensional fault</b>.</span></p>
 <dd class="glossary">Dip-slip faults can be sub-classified into the types "reverse" and "normal". A normal fault occurs when the <a href="#crust"><span title="See entry on this page at § crust" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crust</span></a> is extended such that the hanging wall moves downward relative to the footwall. Contrast <i><a href="#reverse_fault"><span title="See entry on this page at § reverse fault" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">reverse fault</span></a></i>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="obsidian" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Obsidian" title="Obsidian">obsidian</a></dfn></dt>
 <dd class="glossary"></dd>
@@ -1378,40 +902,6 @@
 <dt class="glossary" id="oxbow_lake" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Oxbow_lake" title="Oxbow lake">oxbow lake</a></dfn></dt>
 <dd class="glossary">A crescent-shaped lake found within a floodplain or fluvial terrace created by the cut-off and abandonment of an active meander within a river or stream channel.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="pahoehoe" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pahoehoe" class="mw-redirect" title="Pahoehoe">pahoehoe</a></dfn></dt>
 <dd class="glossary">A type of vesicular, basaltic <a href="#lava"><span title="See entry on this page at § lava" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">lava</span></a> often with a ropy surface texture.</dd>
@@ -1526,40 +1016,6 @@
 <dt class="glossary" id="pyroxenite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Pyroxenite" title="Pyroxenite">pyroxenite</a></dfn></dt>
 <dd class="glossary">A coarse-grained, <a href="#holocrystalline"><span title="See entry on this page at § holocrystalline" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">holocrystalline</span></a> igneous rock consisting mainly of <a href="#pyroxene"><span title="See entry on this page at § pyroxene" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">pyroxenes</span></a>. It may contain <a href="#biotite"><span title="See entry on this page at § biotite" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">biotite</span></a>, <a href="#hornblende"><span title="See entry on this page at § hornblende" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">hornblende</span></a>, or <a href="#olivine"><span title="See entry on this page at § olivine" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">olivine</span></a> as accessories.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="quartzite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quartzite" title="Quartzite">quartzite</a></dfn></dt>
 <dd class="glossary">A compact, hard, very fine-grained white to creamy white rock which breaks into sharp angular fragments. Quartzite is always associated with other <a href="#metamorphic_rock"><span title="See entry on this page at § metamorphic rock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">metamorphic rocks</span></a>, while cemented sandstone is always associated with other <a href="#sedimentary_rock"><span title="See entry on this page at § sedimentary rock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">sedimentary rocks</span></a>.</dd>
@@ -1567,40 +1023,6 @@
 <dt class="glossary" id="quaternary" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Quaternary" title="Quaternary">Quaternary</a></dfn></dt>
 <dd class="glossary">The most recent of the three <a href="#period"><span title="See entry on this page at § period" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">periods</span></a> of the <a href="#cenozoic_Era"><span title="See entry on this page at § Cenozoic Era" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Cenozoic Era</span></a> in the standard geologic time scale. It follows the Neogene Period, spanning 2.588 ± 0.005 million years ago to the present.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="regional_metamorphism" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Regional_metamorphism" class="mw-redirect" title="Regional metamorphism">regional metamorphism</a></dfn></dt>
 <dd class="glossary">Over wide areas resulting from deep burial with consequent rise in temperature and static pressure, usually with the help of folding movements that accompany the formation of mountain ranges.</dd>
@@ -1633,40 +1055,6 @@
 <dt class="glossary" id="rudite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Rudite" title="Rudite">rudite</a></dfn></dt>
 <dd class="glossary">Any of a set of sedimentary rocks composed of rounded or angular detrital grains, i.e. granules, pebbles, cobbles, and boulders, which are coarser than sand in size.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="saccharoidal" style="margin-top: 0.4em;"><dfn class="glossary"><a href="https://en.wiktionary.org/wiki/Saccharoidal" class="extiw" title="wikt:Saccharoidal">saccharoidal</a></dfn></dt>
 <dd class="glossary">Having a texture similar to that of granulated sugar.</dd>
@@ -1770,40 +1158,6 @@
 <dt class="glossary" id="syntaxis" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Syntaxis" title="Syntaxis">syntaxis</a></dfn></dt>
 <dd class="glossary"></dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="table_mountain_group" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Table_Mountain_Group" class="mw-redirect" title="Table Mountain Group">Table Mountain Group</a></dfn></dt>
 <dd class="glossary">A group of rock formations within the <a href="/wiki/Cape_Supergroup" class="mw-redirect" title="Cape Supergroup">Cape Supergroup</a> sequence of rocks.</dd>
@@ -1868,40 +1222,6 @@
 <dd class="glossary">A component of the PreCambrian <a href="/w/index.php?title=Malmesbury_group&amp;action=edit&amp;redlink=1" class="new" title="Malmesbury group (page does not exist)">Malmesbury group</a> of South Africa</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="ultramafic" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ultramafic" class="mw-redirect" title="Ultramafic">ultramafic</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Sometimes used interchangeably with <b>ultrabasic</b>.</span></p>
@@ -1910,40 +1230,6 @@
 <dt class="glossary" id="urgonian" style="margin-top: 0.4em;"><dfn class="glossary">urgonian</dfn></dt>
 <dd class="glossary">A shallow-water carbonate <a href="#facies"><span title="See entry on this page at § facies" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">facies</span></a> deposited along the northern margins of the <a href="#tethys_Ocean"><span title="See entry on this page at § Tethys Ocean" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Tethys Ocean</span></a> during the <a href="/wiki/Barremian" title="Barremian">Barremian</a> and <a href="/wiki/Aptian" title="Aptian">Aptian</a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="vacuole" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vacuole" title="Vacuole">vacuole</a></dfn></dt>
 <dd class="glossary">A bubble inclusion within mineral grains (typically monocrystalline quartz), filled with liquid, gas, or both liquid and gas. Vacuoles are randomly distributed in contrast to the oriented bubble trains of Boehm Lamellae.</dd>
@@ -1982,40 +1268,6 @@
 <dt class="glossary" id="vug" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Vug" title="Vug">vug</a></dfn></dt>
 <dd class="glossary">A small cavity in a rock filled or lined with <a href="#crystal"><span title="See entry on this page at § crystal" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">crystals</span></a> or <a href="#mineral"><span title="See entry on this page at § mineral" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">minerals</span></a> that are different from the host rock.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="wiggle_trace" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/w/index.php?title=Wiggle_trace&amp;action=edit&amp;redlink=1" class="new" title="Wiggle trace (page does not exist)">wiggle trace</a></dfn></dt>
 <dd class="glossary">A graph that plots wave amplitudes (recorded by <a href="/wiki/Seismic_reflection" class="mw-redirect" title="Seismic reflection">seismic reflection</a> and <a href="/wiki/Borehole_logging" class="mw-redirect" title="Borehole logging">borehole logging</a>) as a function of time, with the positive peaks shaded in a single dark colour.</dd>
@@ -2023,40 +1275,6 @@
 <dt class="glossary" id="wolframite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Wolframite" title="Wolframite">wolframite</a></dfn></dt>
 <dd class="glossary">An iron manganese tungstate mineral with the chemical formula (Fe,Mn)WO<sub>4</sub>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="xenolith" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Xenolith" title="Xenolith">xenolith</a></dfn></dt>
 <dd class="glossary">A rock fragment which becomes enveloped in a larger rock during the latter's development and hardening. In geology, the term is almost exclusively used to describe inclusions in <a href="#igneous_rock"><span title="See entry on this page at § igneous rock" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">igneous rock</span></a> during magma emplacement and eruption.</dd>
@@ -2074,40 +1292,6 @@
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also called <b>lignite</b> or <b>brown coal</b>.</span></p>
 <dd class="glossary">A soft brown fuel with characteristics that put it somewhere between <a href="/wiki/Coal" title="Coal">coal</a> and <a href="/wiki/Peat" title="Peat">peat</a>.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="yellow_cake" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Yellow_cake" class="mw-redirect" title="Yellow cake">yellow cake</a></dfn></dt>
 <p class="glossary-hatnote"><span role="note" class="hatnote navigation-not-searchable selfref">Also <b>yellowcake</b> or <b>urania</b>.</span></p>
@@ -2120,40 +1304,6 @@
 <dt class="glossary" id="ypresian" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Ypresian" title="Ypresian">Ypresian</a></dfn></dt>
 <dd class="glossary">The oldest age or the lowest stratigraphic stage of the <a href="#eocene"><span title="See entry on this page at § Eocene" class="glossary-link-internal" style="border-bottom: 1px dashed #86a1ff; color:initial;" id="">Eocene</span></a>. It spans the time between ~56 Ma and ~49 Ma (million years ago).</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="zeolite" style="margin-top: 0.4em;"><dfn class="glossary"><a href="/wiki/Zeolite" title="Zeolite">zeolite</a></dfn></dt>
 <dd class="glossary">Microporous, aluminosilicate minerals commonly used as adsorbents.</dd>
